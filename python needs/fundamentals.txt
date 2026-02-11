@@ -1,0 +1,20 @@
+1. If we want to create a file in different formats we have to know the suffixs like
+.py → Python program
+.java → Java program
+.c → C program
+.cpp → C++ program
+.js → JavaScript
+.cs → C#
+.go → Go
+.rb → Ruby
+
+
+2. If we want to write a multiple lines of comments we can use '''   ''' this instead of #
+
+3. In variables:
+    variable names are case-sensitive
+    like we cant define a varible with two different upper and lower cases
+    we have to use only anyone one of the cases here like a-a, or A-A not A-a, a-A..
+    from the variable module;;;
+
+4. Datatypes
